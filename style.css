@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: black;
+}
+
+.spg {
+    width: 300px;
+    box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, 0.3);
+    background: black;
+    padding: 20px;
+    margin: 5% auto 0;
+    text-align: center;
+}
+
+.abs {
+    text-align: left;
+}
+
+img {
+    margin-bottom: 30px;
+}
+
+h1 {
+    color: white;
+    margin-bottom: 20px;
+}
+
+.input-box {
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px 0;
+    width: 100%;
+    border: 1px solid royalblue;
+    outline: none;
+}
+
+button {
+    color: white;
+    width: 100%;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 15px;
+    margin: 10px 0;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
+
+.twitter-btn {
+    background-color: royalblue;
+}
+
+a {
+    text-decoration: none;
+    color: royalblue;
+    font-size: small;
+}
